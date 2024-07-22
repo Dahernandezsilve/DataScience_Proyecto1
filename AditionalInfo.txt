@@ -1,1 +1,17 @@
-Si existe algun comentario, colocarlo aquí.
+Pasos para crear el venv, ejecuntelo tal cual para no subirlo al git. ☝️
+
+Crearlo
+1. python -m venv venv
+
+Activarlo
+2. venv\Scripts\activate
+
+Instalar (dentro del venv)
+3. pip install -r requirements.txt
+
+Desde VSC cuando le den a run all por primera vez, deben seleccionarlo. Literal es el que dice venv. 🔎
+
+Listo ya pueden darle. ✅ 
+
+MUY IMPORTANTE: Recuerden, cada vez que quieran añadir una librería, deben activar el venv.🚨
+
