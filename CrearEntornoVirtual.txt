@@ -13,5 +13,8 @@ Desde VSC cuando le den a run all por primera vez, deben seleccionarlo. Literal 
 
 Listo ya pueden darle. ✅ 
 
-MUY IMPORTANTE: Recuerden, cada vez que quieran añadir una librería, deben activar el venv.🚨
+MUY IMPORTANTE: 
+- Recuerden, cada vez que quieran añadir una librería, deben activar el venv.🚨
+- También deben volver a generar el requirements.txt con el comando "pip freeze > requirements.txt". 📝
+
 
